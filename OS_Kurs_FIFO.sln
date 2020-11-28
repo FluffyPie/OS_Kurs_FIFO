@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OS_Kurs_FIFO", "OS_Kurs_FIFO\OS_Kurs_FIFO.csproj", "{2CA91387-06BC-476F-BD5C-8AFA34EEEEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifoLib", "FifoLib\FifoLib.csproj", "{359C03EB-19B7-4089-BA24-43FABB8E4891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA91387-06BC-476F-BD5C-8AFA34EEEEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA91387-06BC-476F-BD5C-8AFA34EEEEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA91387-06BC-476F-BD5C-8AFA34EEEEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA91387-06BC-476F-BD5C-8AFA34EEEEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359C03EB-19B7-4089-BA24-43FABB8E4891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359C03EB-19B7-4089-BA24-43FABB8E4891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359C03EB-19B7-4089-BA24-43FABB8E4891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359C03EB-19B7-4089-BA24-43FABB8E4891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA9CBE5E-523C-470B-AEFA-2534CA2FC6D7}
+	EndGlobalSection
+EndGlobal
