@@ -241,10 +241,7 @@ namespace OS_Kurs_FIFO
 
         }
 
-        void Test()
-        {
 
-        }
         private void Timer_Tick(object sender, EventArgs e)
         {
             FrameCount.Enabled = false;
